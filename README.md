@@ -1,4 +1,4 @@
-content = """# Página de Bienvenida - Ejercicio Muro
+# Página de Bienvenida - Ejercicio Muro
 
 Esta es una página de inicio sencilla y moderna diseñada para dar la bienvenida a los usuarios y dirigirlos hacia el proyecto principal del mural.
 
