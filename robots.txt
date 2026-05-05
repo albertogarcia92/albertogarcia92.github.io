@@ -1,4 +1,3 @@
 User-agent: *
-Disallow:
-
-Sitemap: https://ejerciciomuro.vercel.app/sitemap.xml
+Allow: /
+Sitemap: https://albertogarcia92.github.io/sitemap.xml
