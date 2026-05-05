@@ -33,4 +33,4 @@ Si deseas ejecutar este proyecto localmente:
 
 1. Clona el repositorio:
    ```bash
-   git clone [https://albertogarcia92.github.io/](https://albertogarcia92.github.io/)
+   git clone https://albertogarcia92.github.io/
